@@ -1,0 +1,50 @@
+div.a{
+	background-color: red;
+	height: 100px;
+	width: 1350px;
+	position: sticky;
+	left: 30px;	
+		/* static,relative , absolute , fixed, sticky; */
+}
+div.c{
+		height: 150px;
+	width: 150px;
+	position: fixed;
+	right: 100px;
+	bottom: 100px;
+}
+.aa{
+	border: 1px pink;
+	position: absolute;
+	left: 200px;
+	top: 10px;
+}
+.ab{
+	border: 1px pink;
+	position: absolute;
+	left: 300px;
+	top: 10px;
+}
+.ac{
+	border: 1px pink;
+	position: absolute;
+	left: 400px;
+	top: 10px;
+}
+.logo{
+	width: 100px;
+	height: 100px;
+	background-color: pink;
+	position: absolute;
+	left: 50px;
+}
+.main{
+
+	background-color: green;
+	height: 400px;
+	width: 1350px;
+	position: relative;
+	left: 30px;	
+	top: 20px;
+
+}

@@ -1,0 +1,38 @@
+div.main{
+	height: 700px;
+	width: 1520px;
+	position: relative;
+	left: 0px
+	top:0px;
+	border: 1px solid blue;
+
+}
+div.header{
+	height: 100px;
+	width: 1520px;
+	background-color: red;
+}
+div.footer{
+	height: 100px;
+	width: 1520px;
+	background-color: red;
+	position: absolute;
+	/* static  relation absolute fixed sticky
+	left right top bottom
+	*/
+	bottom: 10px;
+}
+div.body{
+	height: 500px;
+	width: 200px;
+	background-color: blue;
+}
+div.body1{
+	height: 100px;
+	width: 100px;
+	background-color: green;
+	position: absolute;
+	bottom: 100px;
+}
+
+}

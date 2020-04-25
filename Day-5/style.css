@@ -1,0 +1,23 @@
+p.a{
+	color: red;
+	border: 2px solid blue;
+}
+p.center{
+	text-align: center;
+	color: yellow;
+}
+#a{
+	color: pink;
+	border: 2px solid blue;
+}
+.b{
+	color: blue;
+}
+h1,p,h2{
+	color: red
+
+}
+h1{
+	color: yellow;
+
+}
